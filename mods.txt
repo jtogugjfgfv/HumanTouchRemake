@@ -2,4 +2,4 @@
 <color=#ffd700>LexiLol <3</color>
 <color=#ffd700>RoosterQMonee</color>
 <color=#ffd700>Willyam</color>
-<color=##f3d946>Gmask</color>
+<color=#f3d946>Gmask</color>
